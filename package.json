@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Marina-yoya/CV-Bootstrap-Grid-System#readme",
   "dependencies": {
-    "bootstrap": "^5.3.0"
+    "bootstrap": "^5.3.0",
+    "bootstrap-icons": "^1.10.5"
   }
 }

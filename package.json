@@ -1,0 +1,22 @@
+{
+  "name": "cv-bootstrap-grid-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marina-yoya/CV-Bootstrap-Grid-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marina-yoya/CV-Bootstrap-Grid-System/issues"
+  },
+  "homepage": "https://github.com/Marina-yoya/CV-Bootstrap-Grid-System#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
+}

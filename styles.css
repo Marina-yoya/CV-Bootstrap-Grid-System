@@ -1,6 +1,16 @@
-
-.contact-info{
-    
+.contact-info {
     font-size: large;
 }
 
+.info {
+    box-shadow: 0px 0px 16px 1px rgba(207, 207, 230, 1);
+}
+.charity-platform {
+    color:rgb(113, 113, 113);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.charity-platform:hover {
+    background-color: rgb(113, 113, 113);
+}
